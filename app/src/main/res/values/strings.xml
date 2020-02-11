@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Texts</string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+    </string-array>
+</resources>
